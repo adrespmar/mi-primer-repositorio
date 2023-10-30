@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Practica 1 PHP</title>
+<title>Practica_1_PHP</title>
 
 </head>
 <body>
