@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Tabla de Divisores</title>
+    <title>Tabla 3</title>
 </head>
 <body>
     <h1>Tabla de Divisores tabla3.php</h1>
